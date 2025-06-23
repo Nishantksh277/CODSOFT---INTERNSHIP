@@ -91,7 +91,7 @@ Raw Data → Data Cleaning → Feature Engineering → Model Training → Evalua
 - **Performance Metric**: Mean Absolute Error (MAE) and R² Score
 
 ### 🏆 Results Highlight
-> **Successfully achieved a prediction accuracy of 8.0 rating** for test samples, demonstrating robust model performance across diverse movie categories.
+> **Successfully achieved a prediction accuracy of 6.96 rating** for test samples, demonstrating robust model performance across diverse movie categories.
 
 ---
 
