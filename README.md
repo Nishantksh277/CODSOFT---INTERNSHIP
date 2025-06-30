@@ -1,150 +1,106 @@
-# 🎬 Movie Rating Prediction System
+# **CODSOFT DATA SCIENCE INTERNSHIP**
 
-<div align="center">
+Codsoft is an IT Services and Consulting company, which offers hands-on learning, where tech enthusiasts work on real projects under the guidance of experienced mentors. Their team consists of industry experts who are dedicated to equipping interns with the knowledge and skills needed to succeed in their careers.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Machine Learning](https://img.shields.io/badge/ML-Linear%20Regression-green.svg)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+Why Data Science?
 
-*An intelligent system that predicts movie ratings using advanced machine learning techniques*
-
+If you say that Data Science is a skill which offers high packages, I don't agree with it my vision to learn data science is to blend my business and IT skills to get data driven insights and finally I can present my findings and insights with anyone using soft skills. That's why I choose to go with data science and find lot of gems from data treasury. 😊
 </div>
 
 ---
 
-## 🎯 Project Overview
+## 🎯 All Tasks Overview
+In this Internship I have completed 3 tasks-
+1. ![Movie Rating Prediction using Linear Regression model in Python](https://github.com/Nishantksh277/CODSOFT---INTERNSHIP/blob/main/Movie%20Rating%20Prediction/README.md)
+2. Credit Crad Fraud Detection using Logistic Regression model in Python.
+3. Loading.....
 
-This file contains a comprehensive **Movie Rating Prediction System** developed as part of **Task 1** for the **CodSoft Data Science Internship**. The project leverages machine learning algorithms to accurately predict movie ratings based on multiple feature variables.
 
-### 🔍 Key Features
-- **Multi-feature Analysis**: Utilizes genre, director, cast, and temporal data
-- **Advanced Preprocessing**: Robust data cleaning and feature engineering pipeline
-- **Model Flexibility**: Supports both traditional ML and deep learning approaches
-- **High Accuracy**: Achieves reliable prediction performance on unseen data
+### ⚙️ Tools & Technologies
+# Data Science Tools & Technologies Icons
 
----
+## Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🎪 Problem Statement
+## Data Analysis & Manipulation
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-> **Challenge**: Can we predict a movie's success (IMDb rating) before its release using only its metadata?
+## Machine Learning & AI
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-In the competitive entertainment industry, predicting movie success is crucial for:
-- **Production Houses**: Investment decisions and budget allocation
-- **Distributors**: Marketing strategy and theater allocation
-- **Streaming Platforms**: Content acquisition and recommendation systems
-- **Movie Enthusiasts**: Informed viewing choices
+## Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
+## Development Environment & Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-## 📊 Dataset Insights
+## Databases & Data Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Our comprehensive dataset encompasses **thousands of movies** with rich metadata:
+## Big Data & Cloud Platforms
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-| Feature | Description | Type |
-|---------|-------------|------|
-| **Name** | Movie title | Text |
-| **Genre** | Movie category/genre | Categorical |
-| **Director** | Film director | Categorical |
-| **Lead Cast** | Top 3 actors (Actor 1, 2, 3) | Categorical |
-| **Year** | Release year | Numerical |
-| **Duration** | Runtime in minutes | Numerical |
-| **Votes** | Number of IMDb votes | Numerical |
-| **Rating** | IMDb rating (Target) | Numerical |
+## Cloud Services
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🧹 Data Engineering Pipeline
-- **Data Validation**: Comprehensive quality checks and outlier detection
-- **Type Conversion**: Systematic conversion of year, duration, and votes to numeric format
-- **Missing Value Treatment**: Strategic median imputation for numerical features
-- **Feature Encoding**: Label encoding for categorical variables with high cardinality
-- **Scaling**: StandardScaler normalization for optimal model performance
+## MLOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
+## Version Control & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 🛠️ Technology Stack
+## Web Scraping & APIs
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div align="center">
+## Statistical Analysis
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-| Category | Technologies |
-|----------|-------------|
-| **Core Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Data Processing** | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white) |
-| **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) |
-| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat) |
-
-</div>
-
----
-
-## 🚀 Model Architecture & Performance
-
-### 📈 Training Pipeline
-```
-Raw Data → Data Cleaning → Feature Engineering → Model Training → Evaluation → Deployment
-```
-
-### 🎯 Model Performance
-- **Primary Model**: Linear Regression with feature scaling
-- **Alternative Model**: Neural Network (TensorFlow/Keras)
-- **Validation Strategy**: Train-test split with cross-validation
-- **Performance Metric**: Mean Absolute Error (MAE) and R² Score
-
-### 🏆 Results Highlight
-> **Successfully achieved a prediction accuracy of 6.96 rating** for test samples, demonstrating robust model performance across diverse movie categories.
-
----
-
-## 📋 Quick Start Guide
-
-### Prerequisites
-```bash
-pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
-```
-
-### Usage Example
-```python
-# Load the trained model
-from movie_predictor import MovieRatingPredictor
-
-# Initialize predictor
-predictor = MovieRatingPredictor()
-
-# Make prediction
-rating = predictor.predict(
-    genre="Action",
-    director="Christopher Nolan",
-    actor1="Leonardo DiCaprio",
-    year=2023,
-    duration=148,
-    votes=250000
-)
-
-print(f"Predicted Rating: {rating}")
-```
 ---
 
 ## 📊 Project Impact
 
-This project demonstrates proficiency in:
+These projects demonstrates proficiency in:
 - **End-to-end ML Pipeline**: From raw data to production-ready model
 - **Real-world Problem Solving**: Addressing industry-relevant challenges
 - **Technical Excellence**: Clean code, documentation, and best practices
 - **Business Understanding**: Translating data insights into actionable recommendations
-
----
-
-## 🏢 Professional Context
-
-- **Developed for**: CodSoft Data Science Internship Program
-- **Objective**: Demonstrate advanced data science and machine learning capabilities  
-- **Industry Application**: Entertainment, Media, and Streaming Services
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
@@ -165,6 +121,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
-*Built for self learning and upskilling*
+*Built for self learning and upskilling by Nishant sharma*
 
 </div>
