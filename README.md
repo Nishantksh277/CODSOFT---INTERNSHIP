@@ -12,7 +12,7 @@ If you say that Data Science is a skill which offers high packages, I don't agre
 ## 🎯 All Tasks Overview
 In this Internship I have completed 3 tasks-
 1. ![Movie Rating Prediction using Linear Regression model in Python](https://github.com/Nishantksh277/CODSOFT---INTERNSHIP/blob/main/Movie%20Rating%20Prediction/README.md)
-2. Credit Crad Fraud Detection using Logistic Regression model in Python.
+2. ![Credit Crad Fraud Detection using Logistic Regression model in Python](https://github.com/Nishantksh277/CODSOFT---INTERNSHIP/blob/main/Credit%20Card%20Fraud%20Detection/README.md)
 3. Loading.....
 
 
